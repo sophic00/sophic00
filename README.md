@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 <div align="center">
   <table>
     <tr>
-      <td>
+<!--       <td>
         <a href="https://git.io/streak-stats">
           <img src="https://sophic-gh-streak.vercel.app?user=sophic00&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
         </a>
-      </td>
+      </td> -->
       <td>
         <a href="https://git.io/streak-stats">
           <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sophic00&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats">
