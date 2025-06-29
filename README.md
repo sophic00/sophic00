@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust, Zig, Game dev and MLOps.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://en.wikipedia.org/wiki/He_(pronoun))
-- 📫 How to reach me: [Email](mailto:vaibhav@national.shitposting.agency) / [Keybase](https://keybase.io/vaibhav00) 
+- 📫 How to reach me: [Email](mailto:vaibhavsijaria@gmail.com) / [Keybase](https://keybase.io/vaibhav00) 
 - ⚡ Fun fact: Still finding.
 
 <div align="center">
