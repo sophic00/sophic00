@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       </td>
       <td>
         <a href="https://git.io/streak-stats">
-          <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sophic00&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats">
+          <img src="https://ghstats-tau.vercel.app/api?show_bg=1&username=sophic00&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats">
         </a>
       </td>
     </tr>
