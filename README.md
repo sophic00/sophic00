@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
 
   [![keybase](https://img.shields.io/badge/Keybase-Vaibhav00-darkturquoise?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/vaibhav00)
-  [![telegram](https://img.shields.io/badge/Telegram-hereticSage-darkturquoise?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hereticSage)
+  [![telegram](https://img.shields.io/badge/Telegram-hereticSage-darkturquoise?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CausalHermit)
 
   [![](https://visitcount.itsvg.in/api?id=vaibhav&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 </div>
