@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: show_bg=1&username=sophic00&show_icons=true&theme=nightowl&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GT }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GT }}
 
       - name: Generate pin card
         uses: stats-organization/github-readme-stats-action@v2
@@ -37,7 +37,7 @@ jobs:
           card: pin
           options: username=stats-organization&repo=github-readme-stats
           path: profile/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GT }}
 
       - name: Commit cards
         run: |
