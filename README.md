@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust, Zig, Game dev and MLOps.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://en.wikipedia.org/wiki/He_(pronoun))
-- 📫 How to reach me: [Email](mailto:vaibhav@sophic.dev) / [Keybase](https://keybase.io/vaibhav00) 
+- 📫 How to reach me: [Email](mailto:vaibhav@sophic.dev) / [Telegram](https://t.me/CausalHermit) 
 - ⚡ Fun fact: Still finding.
 
 <div align="center">
 
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
-  [![DE:Gnome](https://img.shields.io/badge/DE-Gnome-black?style=flat-square&logo=gnome&logoColor=white)](https://www.gnome.org)
-  [![OS:Android14](https://img.shields.io/badge/OS-Android_14-lawngreen?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
-  [![IDE:VSCode](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
+[![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-%231793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![DE:KDE](https://img.shields.io/badge/DE-KDE_Plasma-%231D99F3?style=flat-square&logo=kde&logoColor=white)](https://kde.org)
+[![IDE:Zed](https://img.shields.io/badge/IDE-Zed-%2324292E?style=flat-square&logo=zedindustries&logoColor=white)](https://zed.dev)
 
-  [![keybase](https://img.shields.io/badge/Keybase-Vaibhav00-darkturquoise?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/vaibhav00)
-  [![telegram](https://img.shields.io/badge/Telegram-hereticSage-darkturquoise?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CausalHermit)
+[![Website:sophic.dev](https://img.shields.io/badge/Website-sophic.dev-%234F46E5?style=flat-square&logo=browser&logoColor=white)](https://sophic.dev)
+[![Email:vaibhav@sophic.dev](https://img.shields.io/badge/Email-vaibhav%40sophic.dev-%230F172A?style=flat-square&logo=maildotru&logoColor=white)](mailto:vaibhav@sophic.dev)
+[![telegram](https://img.shields.io/badge/Telegram-CausalHermit-%2326A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CausalHermit)
 
   [![](https://visitcount.itsvg.in/api?id=vaibhav&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 </div>
@@ -49,12 +49,12 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats-khaki-two.vercel.app?user=sophic00&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+        <a href="./profile/streak.svg">
+          <img src="./profile/streak.svg" alt="GitHub Streak">
         </a>
       </td>
       <td>
-        <a href="https://git.io/streak-stats">
+        <a href="./profile/stats.svg">
           <img src="./profile/stats.svg" alt="GitHub Stats">
         </a>
       </td>
